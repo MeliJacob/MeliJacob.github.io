@@ -9,7 +9,7 @@ $(document).ready(function() {
             let $productoHTML = '<div class="col-md-4">'+
             '<div class="sc-product-item">' +
             '<input name="product_id" value="' + $producto.ID + '" type="hidden"/>'+
-            '<img class="img-fluid" data-name="product_image" src='"IMG/productos"' + $producto.Imagen + '" alt="' + $producto.Nombre + '">' +
+            '<img class="img-fluid" data-name="product_image" src='"IMG/productos/"' + $producto.Imagen + '" alt="' + $producto.Nombre + '">' +
             '<h4 data-name="product_name">' + $producto.Nombre + '</h4>'+
             '<input name="product_price" value="' + $producto.Precio + '" type="hidden"/>'+
             '<p class="precio precio-negrita">$' + $producto.Precio + '</p>' +
