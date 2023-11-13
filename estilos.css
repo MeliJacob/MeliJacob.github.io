@@ -15,6 +15,22 @@
     footer { 
         font-size: x-small;
     }
+
+    .banner-contacto h1 { 
+        font-size: 1.875rem;
+    }
+
+    .banner-FAQ h1{ 
+        font-size: 1.875rem;
+    }
+
+    .inicio h1{ 
+        font-size: 1.875rem;
+    }
+
+    .banner-productos h1 { 
+        font-size: 1.875rem;
+    }
 }
 
 @media (max-width: 991px) {
