@@ -11,6 +11,10 @@
     .texto-sm { 
         font-size: smaller;
     }
+
+    footer { 
+        font-size: x-small;
+    }
 }
 
 @media (max-width: 991px) {
