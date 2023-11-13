@@ -48,7 +48,7 @@ body {
     font-family: 'Inter', sans-serif;}
 
 #hero {
-    background: url('img/imagen_hero.jpg') no-repeat center center scroll;
+    background: url('IMG/imagen_hero.jpg') no-repeat center center scroll;
     background-size: cover;
     height: 100vh; 
 }
@@ -60,7 +60,7 @@ body {
 
 
 #newsletter {
-    background: url(img/trago_forms.jpg) no-repeat center center fixed;
+    background: url(IMG/trago_forms.jpg) no-repeat center center fixed;
     background-size: cover;
     }
 
