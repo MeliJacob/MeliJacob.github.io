@@ -48,7 +48,7 @@ body {
     font-family: 'Inter', sans-serif;}
 
 #hero {
-    background: url('IMG/imagen_hero.jpg') no-repeat center center scroll;
+    background: url(IMG/imagen_hero.jpg) no-repeat center center scroll;
     background-size: cover;
     height: 100vh; 
 }
@@ -72,27 +72,27 @@ body {
     color: rgba(255, 255, 0, 0.507) !important;}
     
 #cards { 
-    background: url(img/stripes-light.png)center center scroll;
+    background: url(IMG/stripes-light.png)center center scroll;
 }
 
 #seccion-nosotros{ 
-    background: url(img/papyrus-dark.png)center center scroll;
+    background: url(IMG/papyrus-dark.png)center center scroll;
 }
 
 #carusel-cards { 
-    background: url(img/white-waves.png)center center scroll;
+    background: url(IMG/white-waves.png)center center scroll;
 }
 
 .formulario-contacto { 
-    background: url(img/papyrus-dark.png)center center scroll;
+    background: url(IMG/papyrus-dark.png)center center scroll;
 }
 
 #seccion-preguntas {
-    background: url(img/white-waves.png)center center scroll;
+    background: url(IMG/white-waves.png)center center scroll;
 }
 
 .formulario-FAQ { 
-    background: url(img/papyrus-dark.png)center center scroll;
+    background: url(IMG/papyrus-dark.png)center center scroll;
 }
 
 .mt-100{
@@ -166,7 +166,7 @@ a {
   }
   
 .inicio {
-    background-image: url(img/Banner_nosotros.jpg);
+    background-image: url(IMG/Banner_nosotros.jpg);
     background-size: cover;
     font-size: 2rem;
   }
